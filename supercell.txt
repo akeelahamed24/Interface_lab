@@ -1,0 +1,18 @@
+<html>
+<head>
+  <title>Title of the document</title>
+</head>
+
+<body>
+  <h1>Super cell</h1>
+  <p>Supercell Ltd is a Finnish mobile game development company based in Helsinki. Founded on 14 May 2010, the company's debut game was the browser game Gunshine.net, and after its release in 2011, Supercell started developing games for mobile devices.</p>
+<img src="super_cell.jpg" alt="super cell" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="25,74,85,15" alt="" href="computer.htm">
+  <area shape="poly" coords="145,11,177,24,172,74,124,73,117,25" alt="" href="phone.htm">
+  <area shape="circle" coords="238,45,37" alt="" href="coffee.htm">
+</map>
+</body>
+
+</html>
